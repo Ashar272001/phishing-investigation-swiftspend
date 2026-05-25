@@ -93,3 +93,43 @@ Analysis of the messages revealed multiple phishing indicators commonly associat
 
 
 ---
+# ✅ Investigation Outcome
+
+The phishing campaign successfully impersonated Microsoft 365 services to harvest enterprise credentials from SwiftSpend Financial employees.
+
+Through investigation and phishing kit analysis, multiple indicators of compromise (IOCs) were identified, including:
+
+- Malicious sender infrastructure
+- Credential harvesting domains
+- Exposed phishing kit archives
+- Victim credential logs
+- Attacker-controlled exfiltration email addresses
+
+The investigation demonstrated practical blue-team skills involving:
+- Phishing analysis
+- Threat intelligence
+- Incident response
+- Linux-based investigations
+- Credential harvesting analysis
+- PHP source code inspection
+
+---
+
+# 📚 Skills Demonstrated
+
+- Email Threat Analysis
+- IOC Extraction
+- Threat Intelligence Investigation
+- SHA256 File Hashing
+- Linux CLI Investigation
+- Credential Harvesting Detection
+- PHP Phishing Kit Analysis
+- Security Documentation
+
+---
+
+# 🔗 References
+
+- TryHackMe
+- VirusTotal
+- CyberChef
