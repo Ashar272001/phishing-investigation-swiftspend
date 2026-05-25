@@ -55,4 +55,41 @@ Analysis of the messages revealed multiple phishing indicators commonly associat
 | Domain | groupmarketingonline.icu |
 | Impersonated Brand | Microsoft 365 |
 
+
+# 📸 Investigation Screenshots
+
+## 📧 Initial Phishing Email
+![Phishing Email](screenshots/phishing-email-analysis.png)
+
+---
+
+## 📨 Additional Phishing Email
+![Additional Email](screenshots/additional-phishing-email.png)
+
+---
+
+## 🎭 Fake Microsoft Login Portal
+![Fake Microsoft Login](screenshots/fake-microsoft-login.png)
+
+---
+
+## 🌐 Exposed Directory Listing
+![Exposed Directory](screenshots/exposed-data-directory.png)
+
+---
+
+## 🔐 SHA256 File Hashing
+![SHA256 Hashing](screenshots/sha256-hashing.png)
+
+---
+
+## 📂 Exposed Credential Log Directory
+![Credential Log Directory](screenshots/credential-log-directory.png)
+
+---
+
+## 🧬 Credential Exfiltration Evidence
+![Credential Exfiltration](screenshots/credential-exfiltration-email.png)
+
+
 ---
